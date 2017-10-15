@@ -37,6 +37,12 @@
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
