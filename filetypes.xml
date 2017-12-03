@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern="ApplicationRunner.java" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
