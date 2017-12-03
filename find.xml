@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="File '.../backend/src/main/java/com/tobilko/translator/Application.java [backend_main]'" />
+    <option name="defaultScopeName" value="File '.../backend/src/main/java/com/tobilko/translator/Application.java [backend_main]'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="File '.../backend/src/main/java/com/tobilko/translator/Application.java [backend_main]'" />
   </component>
 </application>
