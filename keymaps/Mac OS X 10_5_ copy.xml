@@ -55,5 +55,6 @@
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta q" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
 </keymap>
