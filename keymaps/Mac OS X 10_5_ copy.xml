@@ -13,6 +13,10 @@
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Diff.SelectedChange" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDeleteLine">
@@ -56,8 +60,16 @@
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="QuickActionPopup">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta q" />
     <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Scala.MakeExplicit" />
+  <action id="ViewImportPopups">
+    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
 </keymap>
