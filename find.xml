@@ -1,8 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'so-fx'" />
-    <option name="defaultScopeName" value="Project 'so-fx'" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Project 'so-fx'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
