@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="ApplicationRunner.java" type="PLAIN_TEXT" />
       <mapping pattern="arbitoryPath" type="PLAIN_TEXT" />
+      <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
