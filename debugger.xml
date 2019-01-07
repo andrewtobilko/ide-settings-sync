@@ -84,6 +84,20 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="Catalog" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.tobilko.Catalog" />
+      </Renderer>
+    </CustomRenderers>
+  </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+    <option name="SHOW_SOURCE_NAME" value="true" />
+    <option name="SHOW_ARGUMENTS_TYPES" value="true" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
