@@ -22,6 +22,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta w" />
